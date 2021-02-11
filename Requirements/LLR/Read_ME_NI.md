@@ -23,6 +23,6 @@
 | LLR\_L002 | Input 2 | float (Float 32bit) |
 | LLR\_L003 | Function1 | product |
 | LLR\_L004 | Function 2 | ratio |
-| LLR\_L005 | Formula of Product | **log** b(xy)= **log** b(x)+ **log** b(y). |
-| LLR\_L006 | Formula of Ratio | **log** b(x/y) = **log** b(x)- **log** b(y). |
+| LLR\_L005 | Formula of Product | **log** (xy)= **log** (x)+ **log** (y). |
+| LLR\_L006 | Formula of Ratio | **log** (x/y) = **log** (x)- **log** (y). |
 | LLR\_L007 | Output | float (Float 32bit) |
