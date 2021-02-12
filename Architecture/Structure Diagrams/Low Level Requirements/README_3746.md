@@ -7,7 +7,7 @@ Factorial - Structural
 ![image](https://user-images.githubusercontent.com/78853902/107752330-97634080-6d44-11eb-970f-1fead0e59b6f.png)
 
 Logarithm - Behavioral
-![UML_logarithm](https://user-images.githubusercontent.com/78853902/107746472-e3f64e00-6d3b-11eb-97df-39e82dfb4732.PNG)
+![Uml_logarithm_Beha_PNG](https://user-images.githubusercontent.com/78853902/107747379-54ea3580-6d3d-11eb-9aa9-38bfbf9011d9.PNG)
 
 Factorial - Behavioral
 
