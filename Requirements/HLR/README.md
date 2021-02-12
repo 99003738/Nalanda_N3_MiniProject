@@ -27,3 +27,4 @@ Operation on trigonometry
 - Finding values of trigonometry ratios.
 - Simple Addition.
  |
+![High Level Requirements](https://user-images.githubusercontent.com/78892310/107741776-d341da00-6d33-11eb-9870-cc1295fc690d.png)
