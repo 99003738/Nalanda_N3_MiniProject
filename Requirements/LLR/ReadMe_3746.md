@@ -26,3 +26,6 @@
 | LLR\_L005 | Formula of Product | **log** (xy)= **log** (x)+ **log** (y). |
 | LLR\_L006 | Formula of Ratio | **log** (x/y) = **log** (x)- **log** (y). |
 | LLR\_L007 | Output | float (Float 32bit) |
+
+UML Diagram.
+![uml1_fact](https://user-images.githubusercontent.com/78853902/107744857-6fbaab00-6d39-11eb-9cae-3d24acd1c9f3.PNG)
